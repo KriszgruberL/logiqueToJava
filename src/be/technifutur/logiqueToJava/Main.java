@@ -16,6 +16,7 @@ public class Main {
                 new RechercheDichotomique(),
 //                new RechercheOrdinaire(),
                 new BinaryTest(),
+                new TestList(),
         };
         do {
             for (int i = 0; i < exercices.length; i++) {
