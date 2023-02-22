@@ -13,6 +13,9 @@ public class Main {
                 new NombrePremier(),
                 new CadreMotHorizontal(),
                 new CadreMotVertical(),
+                new RechercheDichotomique(),
+//                new RechercheOrdinaire(),
+                new BinaryTest(),
         };
         do {
             for (int i = 0; i < exercices.length; i++) {
