@@ -17,6 +17,7 @@ public class Main {
 //                new RechercheOrdinaire(),
                 new BinaryTest(),
                 new TestList(),
+                new HeapSort(),
         };
         do {
             for (int i = 0; i < exercices.length; i++) {
